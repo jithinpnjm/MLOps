@@ -1,0 +1,11 @@
+standard libraries are prebuilt tools included with Python
+`array` stores typed values
+`math` handles mathematical operations
+`random` generates random values and selections
+`os` interacts with files and directories
+`json` converts Python data to and from JSON
+`csv` reads and writes comma-separated files
+`datetime` manages dates and times
+`time` supports delays and timing
+`re` matches patterns in text
+strong Python developers learn to use libraries instead of reinventing tools
