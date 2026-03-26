@@ -1,1 +1,6 @@
-ipkernal
+pandas
+numpy
+matplotlib
+seaborn
+pytest
+pytest-cov
