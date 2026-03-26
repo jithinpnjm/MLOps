@@ -1,2 +1,11 @@
 mlflow
-scikit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+pytest
+pytest-cov
+
+
+        
