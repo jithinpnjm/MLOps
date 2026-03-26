@@ -9,3 +9,4 @@ venv/
 
 MLFLOW/mlflow/mlartifacts/
 MLFLOW/mlflow/mlflow.db
+mlruns/
